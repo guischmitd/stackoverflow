@@ -1,4 +1,5 @@
-
+### Why?
+Cheers, here's the first repo I was prompted to clone for the Data Scientist Nanodegree program by Udacity. I might use this as a base for the first capstone project (writing a data science blog post) or this may stay here as a reminder if I choose another dataset to explore.
 ### Table of Contents
 
 1. [Installation](#installation)
